@@ -53,8 +53,8 @@ body {
   max-width: 243px;
   min-width: 243px;
 }
-/* .ButtomDownlond {
-} */
+.ButtomDownlond {
+}
 .ButtomDownlond button {
   background: #ff6464;
   border-radius: 2px;
@@ -117,8 +117,8 @@ body {
   color: #21243d;
   margin-bottom: 22px;
 }
-/* .LowerBoxContant {
-} */
+.LowerBoxContant {
+}
 .LowerBox {
   display: flex;
   border-bottom: 1px solid #e0e0e0;
